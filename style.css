@@ -1,0 +1,125 @@
+*{
+    color: white;
+}
+
+
+
+body {
+    background-color: rgb(25, 0, 165);
+    display:block;
+
+    }
+
+    
+
+.title{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 10x 10px dashed black
+}
+
+.title{
+    text-decoration: underline;
+    text-shadow: 5px 5px cyan;
+    border: 10px solid black;
+    border-radius: 300px
+}
+
+h1:hover{
+    color: rgb(43, 255, 0);
+}
+
+.retro{
+    text-align: left;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2:hover{
+color: red;
+font-size: 30px;
+border: 5px ridge black;
+    border-radius: 1px
+}
+
+.examples{
+    color: yellow;
+    text-align: right;
+
+}
+
+.picture1{
+    position: absolute;
+    top: 30%;
+    left: 70%
+}
+
+.picture2{
+    position: absolute;
+    top: 20%;
+    left: 40%
+}
+
+.picture3{
+    position: absolute;
+    top: 30%;
+    left: 10%
+}
+
+.picture4{
+    position: absolute;
+    top: 70%;
+    left: 13%
+}
+
+.picture5{
+    position: absolute;
+    top: 80%;
+    left: 40%
+}
+
+.picture6{
+    position: absolute;
+    top: 70%;
+    left: 73%
+}
+
+.picture7{
+    position: absolute;
+    top: 50%;
+    left: 40%
+}
+
+.picture1{
+    box-shadow: 20px 20px green
+}
+
+.picture2{
+    box-shadow: 20px 20px yellow
+}
+
+.picture3{
+    box-shadow: 20px 20px purple
+}
+
+.picture4{
+    box-shadow: 20px 20px red
+}
+
+.picture5{
+    box-shadow: 20px 20px yellow
+}
+
+.picture6{
+    box-shadow: 20px 20px green
+}
+
+.picture7{
+    box-shadow: 20px 20px purple
+}
+
+picture1:hover{
+    color: red;
+    block-size: 30px;
+    }
